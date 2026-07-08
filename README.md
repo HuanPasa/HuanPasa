@@ -11,6 +11,7 @@ Experienced Lead Engineer specializing in enterprise virtualization, infrastruct
 | :--- | :--- |
 | **Virtualization & Compute** | Proxmox VE, KVM, Oracle Linux Virtualization Manager (OLVM) |
 | **Cloud-Native & Container** | Kubernetes, Red Hat OpenShift, VMware Tanzu |
+| **Cloud Infrastructure** | AWS |
 | **Infrastructure as Code**   | Ansible Playbooks, Terraform, Bash Scripting |
 | **Data Protection (Expert)** | Dell PowerProtect Data Manager (PPDM), Dell NetWorker, Cyber Recovery, Veeam |
 | **Operating Systems**        | Enterprise Linux (Fedora, RHEL, Oracle Linux) |
